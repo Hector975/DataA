@@ -281,52 +281,7 @@ if uploaded_file:
             input_text = f"""
 Eres un analista de datos experto con más de 10 años de experiencia. Tu tarea es realizar un análisis completo y profundo de la siguiente base de datos, identificando patrones ocultos y generando insights valiosos. Por favor, sigue estos pasos detalladamente:
 
-1. **Planteamiento del Problema:**
-   - Identifica posibles problemas o áreas de interés que pueden ser exploradas con estos datos.
-   - Plantea preguntas clave que el análisis debería responder.
-
-2. **Recolección y Exploración de Datos:**
-   - Describe las características generales de los datos (número de registros, variables, tipos de datos).
-   - Detecta valores faltantes, datos atípicos y cualquier inconsistencia en los datos.
-
-3. **Preparación y Limpieza de Datos:**
-   - Propón métodos para manejar valores faltantes y outliers.
-   - Sugiere transformaciones o normalizaciones necesarias para preparar los datos para el análisis.
-
-4. **Análisis Exploratorio de Datos (EDA):**
-   - Realiza un análisis detallado buscando patrones, tendencias, correlaciones y relaciones significativas entre las variables.
-   - Identifica patrones o relaciones que no son evidentes a simple vista.
-
-5. **Generación de Hipótesis y Preguntas de Investigación:**
-   - Formula hipótesis basadas en los patrones encontrados.
-   - Propón posibles temas de investigación que podrían ser explorados más a fondo.
-
-6. **Modelado y Pruebas (si aplica):**
-   - Sugiere modelos estadísticos o algoritmos de machine learning que podrían aplicarse a los datos.
-   - Explica cómo estos modelos podrían ayudar a extraer más información de los datos.
-
-7. **Interpretación y Comunicación de Resultados:**
-   - Interpreta los hallazgos del análisis, explicando su significado en el contexto del problema.
-   - Sugiere visualizaciones que podrían ayudar a comunicar los resultados de manera efectiva a una audiencia no técnica.
-
-8. **Recomendaciones y Próximos Pasos:**
-   - Propón oportunidades adicionales para profundizar en el análisis.
-   - Indica qué otros indicadores o variables podrían incluirse en futuros análisis para mejorar la comprensión del problema.
-   - Plantea preguntas adicionales que podrían guiar investigaciones futuras.
-
-9. **Creatividad y Pensamiento Crítico:**
-   - Utiliza tu experiencia para aportar insights que puedan no ser obvios.
-   - Sé creativo en tus sugerencias y recomendaciones.
-
-10. **Comunicación y Visualización**: Sugiere qué tipos de visualizaciones podrían ayudar a comunicar mejor los hallazgos a una audiencia no técnica.
-
-11. **Propuestas y Recomendaciones**:
-   - **Oportunidades de Análisis**: Propón oportunidades adicionales para profundizar en el análisis de los datos.
-   - **Temas de Investigación**: Sugiere posibles temas de investigación que podrían explorarse a partir de los datos.
-   - **Indicadores Adicionales**: Indica qué otros indicadores o variables podrían incluirse en futuros análisis para complementar y mejorar la comprensión del problema.
-12. **Generador de Tesis e investigaciones**
-    - Menciona que investigaciones o temas de tesis podrian generarse apartir de la base de datos.
-    -Haz una propuesta de investigacion generando titulos de tesis o investigaciones a raiz de las hipotesis planteadas
+ realiza una breve interpretación para el cambio de porcentaje y la TMCA como minimo de 25 renglones. Identifica patrones y menciona el crecimiento del TMCA
 
 
 
